@@ -2,7 +2,7 @@
 <p align="center">Este projeto, é um teste para Vitafor Nutrientes. Foi desenvolvido um CRUD 
 com os personagens de Rick & Morty, usando uma <a href="https://rickandmortyapi.com/">API da animação</a>.</p>
 <h3 align="center">Tecnologias Usadas</h3>
-<p align="center">PHP, Laravel, SQLite, Blade, Shell, DB Browser for SQLite e Visual Studio Code</p>
+<p align="center">PHP, Laravel, SQLite, Blade, Shell, DB Browser for SQLite e Visual Studio Code.</p>
 <h4 align="center">Este projeto está concluído</h4>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
